@@ -1,0 +1,18 @@
+{
+  "name": "pxlcht.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Way Spurr-Chen <wayspurrchen@gmail.com> (http://wayspurrchen.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "express": "^4.9.7",
+    "png.js": "^0.1.1",
+    "pngjs": "^0.4.0",
+    "socket.io": "^1.1.0"
+  }
+}
